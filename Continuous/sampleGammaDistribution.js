@@ -191,7 +191,7 @@ class sampleGammaDistribution extends baseModal {
                     max: 9999999,
                     step: 1,
                     style: "mt-3",
-                    value: 1,
+                    value: 100,
                     extraction: "NoPrefix|UseComma"
                 })
             },            
@@ -203,7 +203,7 @@ class sampleGammaDistribution extends baseModal {
                     max: 9999999,
                     step: 1,
                     style: "mt-3",                    
-                    value: 100,
+                    value: 1,
                     extraction: "NoPrefix|UseComma"
                 })
             }, 
